@@ -1,5 +1,5 @@
 # Daily Coding Problems
-A repository of my solutions for [Daily Coding Problems](https://www.dailycodingproblem.com/)
+A repository of my solutions for [Daily Coding Problem](https://www.dailycodingproblem.com/)
 
 [Index](http://www.#.com) of Challenges
 
