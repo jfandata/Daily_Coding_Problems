@@ -1,6 +1,5 @@
-#Daily Coding Problem
-
-##Table fo Contents
+Daily Coding Problem
+========================
 
 |Problem Number  |Title                  |Difficulty | Company | Solution |
 |:--------------:|-----------------------|:---------:|:-------:|:--------:|
